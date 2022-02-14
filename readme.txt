@@ -2,7 +2,7 @@
 Tags: git, deploy, deployment, github, workflow
 Requires at least: 5.3
 Tested up to: 5.6
-Stable tag: 3.0.13
+Stable tag: 3.0.10
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -64,16 +64,10 @@ The way WP Oxgit works, packages (themes and plugins) need to be in their own re
 
 == Changelog ==
 
-= 3.0.13 =
-
 * Fixes an issue where the WordPress 5.9 welcome panel styles were bleeding over into WP Oxgit's welcome panel
 * Adds cURL stats to the troubleshooting tab
 
-= 3.0.12 =
-
 * Adds the "Troubleshooting" tab to help you debug your installation if something's not working properly.
-
-= 3.0.11 =
 
 * Version bump for deployment
 
